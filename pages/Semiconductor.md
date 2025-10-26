@@ -1,0 +1,3 @@
+- Made of a material like silicon of GaN
+- Can be doped to increase the number [[Electrons]]
+	-

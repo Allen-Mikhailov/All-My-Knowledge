@@ -1,0 +1,3 @@
+- Constant for calculating [[Diffusion Current]]
+- $$D_n,D_p$$
+- They are based on particle, [[Semiconductor]] type, Temperature

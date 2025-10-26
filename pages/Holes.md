@@ -1,0 +1,5 @@
+- The absence of an [[Electrons]] in the full valance band of an atom
+- Have a positive charge $$+q$$
+- Number of holes per unit volume is $$p_0$$
+- Usually represented by $$T_p$$ with $$T$$ being some property
+-

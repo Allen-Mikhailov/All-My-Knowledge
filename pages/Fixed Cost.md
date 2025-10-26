@@ -1,0 +1,2 @@
+- The costs that do not vary with the amount produced
+- Buying the building and rights

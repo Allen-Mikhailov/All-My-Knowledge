@@ -1,0 +1,3 @@
+- The charge carriers [[Electrons]]s or [[Holes]]s that are present in the largest majority and carry most of the current around
+- in [[n-type Semiconductor]]s these are [[Electrons]]
+- In [[p-type Semiconductor]]s these are [[Holes]]

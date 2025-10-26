@@ -1,0 +1,11 @@
+- Most widly used transistor
+- Metal Oxide Semiconductor Field Effect Transistor
+	- Metal Gate
+	- Oxide Dielectric (Insulating Layer)
+	- [[Semiconductor]] substrate (Two types)
+		- p-substrate for n-channel NMOS
+		- n-substrate for p-channel PMOS
+- Stages
+	- Accumulation
+	- Depletion
+	- Inversion

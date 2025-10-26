@@ -1,0 +1,5 @@
+- The Length that particles that are minority carriers will travel before diffusion where it recombines with a majority carrier
+- It is the square root of the [[Diffusion Coefficient]] times the [[Electron and Hole Lifetime]]
+- $$L_n=\sqrt{D_n\tau_n}$$
+- $$L_p=\sqrt{D_p\tau_p}$$
+-

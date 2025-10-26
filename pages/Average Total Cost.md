@@ -1,0 +1,7 @@
+- It is the Average Variable Cost plus the Average Fixed costs
+- Total cost over quamtity
+- Symbol: $$ATC$$
+- Formula: $$ATC=AVC+AFC$$
+- Curve: Quantity vs Average Total Cost
+	- U-Shaped
+	- Minimum is where it intersects with [[Marginal Cost]]. This point is also known as the [[Efficient Scale]]

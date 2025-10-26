@@ -1,0 +1,5 @@
+- Also known as  depletion region
+- When there is no bias (no external voltage/thermal equilibrium ) there are no [[Majority Charge Carriers]]
+- The n-side has a net positive charge due to the $$N_d^+$$ ions
+- the p-side has a net negative charge due to the $$N_d^- $$ ions
+- The n-side width is $$x_n$$ and the p-sides width is $$x_p$$. The width of this region is $$W=x_n+x_p$$

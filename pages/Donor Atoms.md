@@ -1,0 +1,5 @@
+- A type of atom that can be doped into the crystal lattice of a [[Semiconductor]]
+- They usually have like 5 valance [[Electrons]]
+- 4 of the [[Electrons]] make covalent bonds with the semiconductors normal atoms
+- 1 [[Electrons]]  goes free
+- The Atom is now positively charged and an immobile charge carrier

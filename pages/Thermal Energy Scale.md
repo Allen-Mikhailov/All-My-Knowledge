@@ -1,0 +1,3 @@
+- $$kT$$
+- Pretty much how much random movement the particles [[Electrons]] and [[Holes]] have
+- Used in many equations

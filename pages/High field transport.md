@@ -1,0 +1,1 @@
+- When Electric field gets too large Ohms law breaks down and scattering rate increases due to hot electrons. Electric field vs carrier drift velocity stops being linear and flattens out

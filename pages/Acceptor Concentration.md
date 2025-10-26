@@ -1,0 +1,3 @@
+- The number of atoms per unit volume of [[Acceptor Atoms]] added to a [[Semiconductor]]
+- Acceptor Concentration: $$N_a (cm^{-3})$$
+- [[p-type Semiconductor]] are when $$N_a$$ is high

@@ -1,0 +1,10 @@
+- The number of charge carriers ([[Electrons]] and [[Holes]] ) per unit volume in a pure semiconductor (intrinsic) (no doping)
+- Symbol is $$n_i$$
+- Units usually in $$\#/cm^{3}$$
+- In a pure (doped) semiconductor the number of $$p_0=n_0=n_i$$
+- In any semi conductor $$n_i^2=p_0n_0$$
+-
+-
+-
+-
+-

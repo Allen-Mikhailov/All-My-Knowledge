@@ -1,0 +1,5 @@
+- A type of atom that can be doped into the crystal lattice of a [[Semiconductor]]
+- They usually have like 3 valance [[Electrons]]s
+- 3 of the [[Electrons]] make covalent bonds with the semiconductors normal atoms
+- This leaves a [[Holes]]
+- Becomes negatively charged and a immobile negative charge carrier

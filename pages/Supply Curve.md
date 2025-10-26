@@ -1,0 +1,2 @@
+- Price vs Quantity
+- In the short run

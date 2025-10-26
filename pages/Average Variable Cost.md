@@ -1,0 +1,6 @@
+- Symbol: $$AVC$$
+- Starts at the same point at [[Marginal Cost]] but  is smoother
+- All the marginal costs added up and averaged
+- Formula: $$AVC=\frac{1}{Q}\int_0^Q MC(q) dq$$
+- Curve Quantity vs $$AVC$$
+	- The minimum point is where the Average Variable Cost intersects with the [[Marginal Cost]]

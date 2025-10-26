@@ -1,0 +1,5 @@
+- The point on the quantity vs costs curve in which [[Marginal Cost]] and [[Average Total Cost]] intersect
+- Also the lowest point on the quantity vs [[Average Total Cost]] curve
+- At this point the change in [[Average Fixed Cost]] and [[Average Variable Cost]] is the same
+- To the left of this point our [[Average Fixed Cost]] is falling **faster** than our [[Average Variable Cost]] is rising
+- To the right of this point our [[Average Fixed Cost]] is falling **slower** than our [[Average Variable Cost]] is rising

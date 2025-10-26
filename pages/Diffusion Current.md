@@ -1,0 +1,4 @@
+- Current generated as electrons and holes diffuse
+- Below are density probably
+- $$J_{nx|drift}=eD_n\frac{dn}{dx}$$$$J_{px|drift}=-eD_n\frac{dp}{dx}$$
+-

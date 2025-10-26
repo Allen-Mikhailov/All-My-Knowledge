@@ -1,0 +1,1 @@
+- Total cost is  [[Fixed Cost]] + [[Variable Cost]]

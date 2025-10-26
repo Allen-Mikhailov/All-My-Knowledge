@@ -1,0 +1,5 @@
+- Constant for how holes and electrons move through a material
+- Different for [[Electrons]] and [[Holes]], different [[Semiconductor]] types, Temperature, and doping levels
+- Electron Mobility: $$u_n$$
+- Hole Mobility: $$u_p$$
+- Used when calculating [[Drift Current]]

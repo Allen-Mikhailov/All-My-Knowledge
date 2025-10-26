@@ -1,0 +1,3 @@
+- The current generated when an electric field goes over a semiconductor
+- Drift Current Density: $$J_{drift}=e(u_nn+u_pp)E$$$$
+- [[Electron and Hole Mobility]] constants are $$u_p$$ and $$u_n$$

@@ -1,0 +1,10 @@
+- The relationship between the quantity of inputs used to make a good to the quantity of outputs
+- Contains:
+	- Number of workers
+	- Output Quantity
+	- Marginal Product of Labor [[Marginal Product]]
+	- Fixed Cost of Capital [[Fixed Cost]]
+	- Variable Cost of workers [[Variable Cost]]
+	- Total Costs (=Fixed Cost + Variable Cost)
+- We get diminishing returns as the curve (workers vs output) flattens
+- This leads to the [[Total Cost]] curve steepening when as output increases

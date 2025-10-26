@@ -1,0 +1,3 @@
+- The charge carriers [[Electrons]]s or [[Holes]]s that are present in the least majority and carry less of the current around
+- in [[n-type Semiconductor]]s these are [[Holes]]
+- In [[p-type Semiconductor]]s these are [[Electrons]]

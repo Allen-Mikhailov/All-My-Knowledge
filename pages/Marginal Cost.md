@@ -1,0 +1,3 @@
+- Change in Cost vs Quantity Produced
+- First goes down as the [[The Teamwork Effect]] applies but then goes back up as [[Marginal Product]] decreases
+- Symbol: $$MC$$

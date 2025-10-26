@@ -1,0 +1,3 @@
+- $$\frac{D_n}{u_n}=\frac{kT}{e}$$
+- $$\frac{D_p}{u_p}=\frac{kT}{e}$$
+- Relates to the [[Diffusion Coefficient]] and the [[Electron and Hole Mobility]] constants as well as [[Thermal Energy Scale]]

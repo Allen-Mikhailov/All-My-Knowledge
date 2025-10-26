@@ -1,0 +1,2 @@
+- output vs ATC Curve Slopes downwards as the cost stays fixed $$\frac{ATC}{output}$$
+- In the long run this can become a [[Variable Cost]] as you can buy more capital

@@ -1,0 +1,7 @@
+- A type of Extrinsic [[Semiconductor]] in which [[Acceptor Atoms]]  are doped into the crystal lattice
+- This leaves it with a ton of [[Holes]]
+- [[Holes]] are the [[Majority Charge Carriers]]
+- [[Electrons]] are the [[Minority Charge Carriers]]
+- Kind of opposite of [[n-type Semiconductor]]
+- $$N_a>>N_d$$
+- $$p_0\approx N_a$$

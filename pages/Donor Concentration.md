@@ -1,0 +1,4 @@
+- The number of atoms per unit volume of [[Donor Atoms]] added to a [[Semiconductor]]
+- Donor Concentration: $$N_d (cm^{-3})$$
+- [[n-type Semiconductor]] are when $$N_d$$ is high
+-

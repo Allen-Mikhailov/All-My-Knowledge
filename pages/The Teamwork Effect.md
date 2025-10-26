@@ -1,0 +1,1 @@
+- When you have a small number of workers increasing the amount will increase the [[Marginal Product]] as the workers can specialize allowing them to each perform better
