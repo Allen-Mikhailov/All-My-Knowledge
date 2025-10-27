@@ -1,0 +1,1 @@
+- A group of firms acting in unison to control quantity or prices

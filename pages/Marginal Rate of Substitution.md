@@ -1,0 +1,4 @@
+- The rate at which a customer is willing to trade one good for another
+- Changes with quantity
+	- I want bread more then jelly when I have a lot of jelly
+- Symbol: $$MRS$$

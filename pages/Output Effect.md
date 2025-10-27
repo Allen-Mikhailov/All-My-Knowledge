@@ -1,0 +1,1 @@
+- When you increase output you sell more units and this tends to increase the revenue

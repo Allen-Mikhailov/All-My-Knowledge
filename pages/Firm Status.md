@@ -1,0 +1,8 @@
+- Firms will shutdown if their losses are greater than their [[Fixed Cost]]
+- Firms will minimize losses if their losses are less than their [[Fixed Cost]]
+-
+- Firms produce on the [[Marginal Cost]] curve
+- In the short run
+	- Firms will produce when the Price is greater than the [[Average Variable Cost]] otherwise they will shutdown
+- In the long run
+	- Firms will produce when the Price is greater than the [[Average Total Cost]] otherwise they will shutdown

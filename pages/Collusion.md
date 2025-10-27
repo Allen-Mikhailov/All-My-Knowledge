@@ -1,0 +1,2 @@
+- An agreement between firms in a market about quantities to produce or prices to charge
+- Similar to a [[Cartel]]

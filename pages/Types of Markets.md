@@ -1,0 +1,5 @@
+- There are many types of markets including
+	- [[Perfect Competition]]
+	- [[Monopoly]]
+	- [[Monopolistic Competition]]
+	- [[Oligopoly]]

@@ -5,3 +5,4 @@
 - Curve: Quantity vs Average Total Cost
 	- U-Shaped
 	- Minimum is where it intersects with [[Marginal Cost]]. This point is also known as the [[Efficient Scale]]
+- If your price is lower than the average total cost then you would exit the market

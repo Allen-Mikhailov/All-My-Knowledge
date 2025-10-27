@@ -1,0 +1,10 @@
+- Many firms with similar but not identical products
+	- Ex:(Fast food)
+-
+- Many sellers but there is a downward sloping demand curve as
+- Free entry and exit
+-
+- They maximize profits similar to a [[Monopoly]] where producing where [[Marginal Revenue]] equals [[Marginal Cost]]
+	- Has similar dead-weight loss to a [[Monopoly]] as well
+-
+- In the long run firms will enter which will decrease the firms demand reducing their profits

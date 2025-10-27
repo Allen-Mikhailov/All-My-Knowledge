@@ -1,0 +1,2 @@
+- Total Revenue - Explicit Costs
+- Often Compared to [[Economic Profit]]

@@ -1,0 +1,5 @@
+- Like [[Perfect Competition]] but very few sellers
+- Requires the use of game theory
+	- Things like the [[Prisoners’ Dilemma]]
+-
+- They tend to either make a [[Collusion]] or a [[Cartel]]

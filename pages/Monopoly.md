@@ -1,0 +1,12 @@
+- When there is a single firm that is the sole seller of a product
+- This gives them the power to set the prices
+-
+- They have a downward sloping demand curve as they are the entire market
+- [[Marginal Revenue]] is always half of demand because of math
+-
+- This leads to a dead weight loss because the price level is greater than the [[Marginal Cost]] level which ends up with missing production
+	- Triangle between The efficient quantity and the profit quantity and between [[Demand]] and [[Marginal Revenue]]
+	- This can be fixed with Price discrimination as you could sell to everyone whos willing to pay above the [[Average Total Cost]]
+-
+- Their revenue is bounded by the [[Price Effect]] and the [[Output Effect]]
+- Monopolies can arise form barriers such as control over resources, natural production ([[Economies of Scale]]), Government stuff

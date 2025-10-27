@@ -1,2 +1,10 @@
 - Price vs Quantity
-- In the short run
+- In the short run it is just the [[Marginal Cost]] curve just for all firms
+- In the long run the curve becomes perfectly elastic (flat)
+	- Profit becomes zero
+	- This happens when the Price,  [[Average Total Cost]], [[Marginal Cost]], [[Average Revenue]], and [[Marginal Revenue]] are equal
+	- Formula: $$P=ATC=MC=AR=MR$$
+	- Firms have no incentive to enter or exit
+	- If there is profit to be made then more firms will enter
+	- If there are only losses then firms will leave the market
+- We produce were [[Marginal Revenue]] equals [[Marginal Cost]]

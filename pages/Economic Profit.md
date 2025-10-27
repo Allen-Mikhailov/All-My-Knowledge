@@ -1,0 +1,2 @@
+- Total Revenue - Explicit Costs - Implicit Costs
+- Often Compared to [[Accounting Profit]]

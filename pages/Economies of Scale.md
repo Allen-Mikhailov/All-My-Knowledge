@@ -1,0 +1,2 @@
+- The idea that as you produce more of something, you get more efficient at producing it
+- Seen as a always downward sloping [[Average Total Cost]]

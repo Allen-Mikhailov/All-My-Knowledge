@@ -1,0 +1,9 @@
+- When you have two products that you want
+- Curve based on the desired quantity of two different items
+- Derivative is based on the [[Marginal Rate of Substitution]]
+- Usually downward sloping
+- There are like an infinite number of them stacked on top of each other
+-
+- The optimal point is where the Indifference curve is tangent with the [[Budget Constraint]] curve
+-
+- The [[Income Effect]] and the [[Substitution Effect]]

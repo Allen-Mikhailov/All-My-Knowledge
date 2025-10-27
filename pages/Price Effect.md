@@ -1,0 +1,1 @@
+- When the price falls ($$P$$ is lower) this tends to reduce the amount of total revenue

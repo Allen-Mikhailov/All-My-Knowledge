@@ -1,0 +1,3 @@
+- The Effect that an increase in the total purchasing power of buyers will cause a shift to a new [[Indifference Curves]]
+- Example:
+	- If the price of waffles decreases then you can buy more stuff in total which will shift your indifference curve up

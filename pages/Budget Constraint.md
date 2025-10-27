@@ -1,0 +1,2 @@
+- When your budget is limited
+- For example you want beer and wings but

@@ -1,0 +1,13 @@
+- Perfectly competitive market
+- Many firms selling identical products
+- Sellers and buyers are price takers
+- Free entry and exit into the market
+-
+- This means that
+	- price equals [[Marginal Revenue]] and [[Average Revenue]] and [[Demand]]
+	- Firm maximizes profit where  [[Marginal Cost]] equals [[Marginal Revenue]]
+	- This makes their profit $$(P-ATC) \times Q$$
+	- The price is the [[Marginal Revenue]] so they will produce until it equals the [[Marginal Cost]] at which point making more would loose them money
+	- They also minimize losses when producing at that range
+	- They will minimize losses as long as their losses are not greater than their [[Fixed Cost]] which is the same as saying that the price is above the [[Average Variable Cost]] in the short run
+	- In the long run they will shut down is the [[Average Total Cost]] is greater than the price

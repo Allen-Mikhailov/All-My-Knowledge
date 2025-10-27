@@ -1,0 +1,1 @@
+- The change in consumption that results when a price change moves a consumer along a given indifference curve
