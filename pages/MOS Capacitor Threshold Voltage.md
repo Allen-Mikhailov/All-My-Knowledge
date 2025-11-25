@@ -1,0 +1,6 @@
+- The voltage at which [[MOS Capacitor Inversion]] occurs.
+	- In **p-type** happens when the semiconductor work function is equal to twice the [[Fermi Potential]] or $$\phi_s=2\phi_{fp}$$
+	- In **n-type** happens when the semiconductor work function is equal to twice the [[Fermi Potential]] or $$\phi_s=2\phi_{fp}$$
+	-
+- Symbol: $$V_{TH}$$
+-

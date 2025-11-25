@@ -1,0 +1,4 @@
+- Symbol: $$(t)$$
+- Units
+	- [[Seconds]] $$(s)$$
+-

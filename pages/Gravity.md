@@ -1,0 +1,3 @@
+- The [[Acceleration]] towards the center of a planet  from any object
+- Symbol: $g$
+- $g=9.8 \; m/s^2$ towards earth at sea level

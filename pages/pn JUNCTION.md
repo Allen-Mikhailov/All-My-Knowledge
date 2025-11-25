@@ -1,4 +1,8 @@
 - Composed of a [[p-type Semiconductor]] region and an [[n-type Semiconductor]] region
+- Positive charge on the n-type side and negative charge in the p-type side
+- $$W=x_n+x_p$$
+- $$x_pN_A=x_nN_D$$
+-
 - Where the two meet is a [[Space Charge Region]]
 - ![PN Junction Energy band.png](../assets/PN_Junction_Energy_band_1760500594360_0.png) ![./P]
 - Built in voltage $$V_{bi}=\frac{kT}{e}\ln(\frac{N_aN_d}{n_i^2})$$

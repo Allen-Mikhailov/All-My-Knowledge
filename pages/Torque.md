@@ -1,0 +1,4 @@
+- Angular Force
+- Symbol: $\tau$
+- Units:
+	- $Nm_T$ Force applied perpendicularly an object a distance $m$ away from its [[Center of Mass]]

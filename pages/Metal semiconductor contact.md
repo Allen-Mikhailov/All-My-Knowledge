@@ -1,0 +1,4 @@
+- They form a [[Rectifying Contact]] depending on the [[Schottky barrier height]] $$\phi_{B0}$$
+- They form a [[Space Charge Region]] with the same equation for a one sided [[pn JUNCTION]]
+	- $$W=x_n=[\frac{2\epsilon_s(V_{bi}+V_R)}{eN_d}]^\frac{1}{2}$$
+- Current is generated through

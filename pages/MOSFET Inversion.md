@@ -1,2 +1,0 @@
-- Happens when $$V_T<V_G$$
-- The surface in the [[Semiconductor]] adjacent to the oxide-semiconductor interface is n-type even though it is a [[p-type Semiconductor]]. This n-type layer is refereed to as an inversion layer

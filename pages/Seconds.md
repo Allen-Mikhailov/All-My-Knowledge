@@ -1,0 +1,4 @@
+- Base Unit of [[Time]]
+- Symbol $$(s)$$
+-
+- {{query (property :tags "Seconds")}}

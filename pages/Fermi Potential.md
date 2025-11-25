@@ -1,0 +1,6 @@
+- The difference in volts between the [[Intrinsic Fermi Level]] and the [[Fermi Level]] in semiconductor devices
+- Symbol: $$\phi_{fp}$$
+- Equations: $$\phi_{fp}=\frac{kT}{q}\ln(\frac{N_A}{n_i})=\frac{E_{Fi}-E_F}{q}$$
+-
+-
+-

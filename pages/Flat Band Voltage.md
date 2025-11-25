@@ -1,0 +1,4 @@
+- It is the applied voltage at which the MOS capacitor's [[Energy Band Diagram]] will be flat
+- Symbol: $$V_{FB}$$
+- Ideally it is $$V_{FB}=\phi_{ms}$$
+- In reality it is $$V_{FB}=\phi_{ms}-\frac{Q'}{C_{ox}}$$

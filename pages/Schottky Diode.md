@@ -1,0 +1,1 @@
+- A type of diode that uses a metal [[Semiconductor]] [[Electrical Junctions]]

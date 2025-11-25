@@ -1,0 +1,2 @@
+- The threshold voltage required to do stuff to a [[MOSFET]]
+- Symbol: $$V_T$$

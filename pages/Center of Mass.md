@@ -1,0 +1,1 @@
+- The average position of all parts of an object weighted by their [[Mass]]

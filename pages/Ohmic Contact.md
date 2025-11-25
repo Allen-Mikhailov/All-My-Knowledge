@@ -1,0 +1,6 @@
+- Low resistance connection
+- Just like a wire
+- $$V=IR$$
+- Needs high doping like $$> 10^{19}$$
+- ![image.png](../assets/image_1762451942681_0.png)
+-

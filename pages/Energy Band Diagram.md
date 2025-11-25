@@ -1,0 +1,7 @@
+- An energy band diagram is a diagram that shows the energy levels of things over space through a material
+- X axis is space/distance
+- Y axis is energy levels
+- Some common lines
+	- Conduction Band Edge $$E_C$$
+	- Valence Band Edge $$E_v$$
+	- [[Intrinsic Fermi Level]] $$E_{Fi}$$

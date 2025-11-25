@@ -1,0 +1,3 @@
+- The length of the channel of the [[MOSFET]]
+- Symbol: $$L$$
+- Inversely proportional to Current $$I_D$$

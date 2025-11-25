@@ -1,0 +1,3 @@
+- Symbol: $$\phi_s$$
+- It is the difference between the [[Intrinsic Fermi Level]] in the middle of the [[Semiconductor]] and at the surface of the connection
+- Units $$(V)$$

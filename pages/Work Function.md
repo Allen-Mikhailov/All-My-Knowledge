@@ -1,0 +1,6 @@
+- A function that measures the volts from the [[Fermi Level]] to the [[Vacuum Level]]
+- Symbol is $$\phi$$
+	- metal work function: $$\phi_m$$
+	- semiconductor work function: $$\phi_s$$
+- ![image.png](../assets/image_1762452163932_0.png)
+	-

@@ -1,0 +1,4 @@
+- The vacuum level is the energy level in an [[Energy Band Diagram]] in which the electrons are free from the material
+- It is used as a reference level
+	- It is often related to the [[Work Function]]
+- ![image.png](../assets/image_1762450946568_0.png)

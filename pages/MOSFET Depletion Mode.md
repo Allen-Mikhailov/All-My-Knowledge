@@ -1,0 +1,2 @@
+- A type of mode for a [[MOSFET]]
+- The [[MOS Threshold Voltage]] $$V_T$$ is negative

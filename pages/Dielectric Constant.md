@@ -1,0 +1,4 @@
+- Also known as the Relative Permittivity of an oxide
+- It is a property that dictates how an electric field affects a material
+- Symbol: $$\epsilon_r$$
+- In Silicon Oxide its 3.9

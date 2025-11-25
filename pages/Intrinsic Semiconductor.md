@@ -1,0 +1,1 @@
+- It is just a [[Semiconductor]] that has not been dopped

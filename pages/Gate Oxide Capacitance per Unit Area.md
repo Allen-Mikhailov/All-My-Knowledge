@@ -1,0 +1,6 @@
+- it is the capacitance per unit area of a parallel plate capacitor (from a [[MOS Capacitor]] ) where the oxide layer acts as the dielectric material
+- Symbol: $$C_{ox}$$
+- Units: $$F/cm^2$$
+- It is equal to the  [[Permittivity of the Oxide Material]] $$\epsilon_{ox}$$ over the [[Thickness of the Oxide Layer]] $$t_{ox}$$
+- $$C_{ox}=\frac{\epsilon_{ox}}{t_{ox}}$$
+-

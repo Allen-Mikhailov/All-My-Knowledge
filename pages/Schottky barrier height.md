@@ -1,0 +1,5 @@
+- Symbol: $$\phi_{B0}$$
+- It is equal to the metal [[Work Function]] minus the [[Electron Affinity]]
+- $$\phi_{B0}=\phi_m-\chi$$
+- ![image.png](../assets/image_1762452797869_0.png)
+-

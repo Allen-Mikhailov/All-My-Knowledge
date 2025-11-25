@@ -1,0 +1,6 @@
+- Symbol $$E_{Fi}$$
+- it is just the [[Fermi Level]] in an [[Intrinsic Semiconductor]]
+- It is the average value between the Valance band and the Conductance band
+	- $$E_{Fi}\approx\frac{E_C+E_V}{2}$$
+-
+-

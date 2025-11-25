@@ -1,0 +1,4 @@
+- Formed when metal is joined with a [[Semiconductor]]
+- Type main types
+	- [[Ohmic Contact]]
+	- [[Rectifying Contact]]

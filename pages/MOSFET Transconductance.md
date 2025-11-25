@@ -1,0 +1,2 @@
+- The change in drain current with respect to the corresponding change in gate voltage
+- Formula: $$g_m=\frac{\delta I_D}{\delta V_{GS}}$$

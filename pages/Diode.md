@@ -1,0 +1,3 @@
+- Some types of Diodes are
+	- [[pn JUNCTION]]
+	- [[Schottky Diode]]

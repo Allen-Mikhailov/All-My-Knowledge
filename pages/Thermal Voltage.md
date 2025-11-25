@@ -1,0 +1,3 @@
+- voltage equivalent of at a given temperature
+- Symbol $$V_t=\frac{kT}{q}$$
+- Used a lot in [[Diode]] and [[MOS Capacitor]] calculations

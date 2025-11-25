@@ -426,5 +426,6 @@
  :default-home {}
  :graph/settings {:builtin-pages? false
  :journal? false
- :excluded-pages? true
- :orphan-pages? true}}
+ :excluded-pages? false
+ :orphan-pages? true}
+ :ui/show-brackets? false}

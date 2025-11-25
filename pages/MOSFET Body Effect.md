@@ -1,0 +1,1 @@
+- In a [[MOSFET]]  When you apply a separate reverse bias between the source and the substrate  you increase the Depletion Width and increase the magnitude of the Threshold Voltage

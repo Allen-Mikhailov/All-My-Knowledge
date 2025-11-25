@@ -2,6 +2,8 @@
 - This leaves it with a ton of free negative charge carriers floating around
 - [[Electrons]] are the [[Majority Charge Carriers]]
 - [[Holes]] are the [[Minority Charge Carriers]]
+- [[Fermi Level]] is above the [[Intrinsic Fermi Level]]
+	- $$E_F > E_{Fi}$$
 - Kind of opposite of [[p-type Semiconductor]]
 - $$N_d>>N_a$$
 - $$n_0\approx N_d$$

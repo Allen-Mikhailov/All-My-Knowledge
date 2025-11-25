@@ -1,0 +1,4 @@
+- Symbol: $$\epsilon_{ox}$$
+- Units: $$F/cm$$
+- It is the [[Dielectric Constant]] $$\epsilon_r$$ times the [[Permittivity of Free Space]] $$\epsilon_0$$
+- $$\epsilon_{ox}=\epsilon_r\times \epsilon_0$$

@@ -1,11 +1,15 @@
-- Most widly used transistor
-- Metal Oxide Semiconductor Field Effect Transistor
-	- Metal Gate
-	- Oxide Dielectric (Insulating Layer)
-	- [[Semiconductor]] substrate (Two types)
-		- p-substrate for n-channel NMOS
-		- n-substrate for p-channel PMOS
-- Stages
-	- Accumulation
-	- Depletion
-	- Inversion
+- MOSFETS have [[MOS Capacitor]]s in them
+-
+- There are 2 modes for MOSFETS
+	- Enhancement Mode
+	- Depletion Mode
+- There are also type types they can be
+	- PMOS with a [[p-type Semiconductor]] as the top part and n-type for the bulk
+	- NMOS with an [[n-type Semiconductor]] as the top part and p-type for the bulk
+-
+- There are two regions for current
+	- Linear Region where the current increased linearly with voltage $$V_{DS}<V_{DS}(sat)$$
+		- Current: $$I_D=\frac{W\mu_n C_{ox}}{2L}$$
+	- Saturation region where the current maxes out  $$V_{DS}>V_{DS}(sat)$$
+- I-V characteristic of n-type enhancement
+	-

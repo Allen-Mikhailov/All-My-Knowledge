@@ -1,0 +1,5 @@
+- In an [[Energy Band Diagram]] when the $$E_V$$ and $$E_C$$ changes level the line for them bends
+- This creates an internal electric field (I think)
+- This also causes the [[Fermi Level]] to change with position
+- Symbol: $$\phi_{ms}$$ is the total amount of band bending
+- Caused by a voltage

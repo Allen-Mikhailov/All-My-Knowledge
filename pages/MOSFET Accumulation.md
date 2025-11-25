@@ -1,3 +1,0 @@
-- When $$V_G<V_{FB}<0$$
-- Accumulation layer of holes on the oxide semiconductor junction corresponding to the positive charge on the bottom plate of the MOS capacitor
--

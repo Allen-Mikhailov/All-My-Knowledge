@@ -1,0 +1,7 @@
+- Symbol: $$E_F$$
+- The energy level in which the probability of an electron state being occupied is exactly 50% at thermal equilibrium
+- Usually what changes in an [[Energy Band Diagram]]
+- in [[p-type Semiconductor]] it is closer to $$E_V$$ (The Valence Band)
+- In [[n-type Semiconductor]] it is closer to the $$E_C$$ conduction band
+-
+- In metals $E_F is in the conduction band (Electron Sea)

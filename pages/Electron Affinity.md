@@ -1,0 +1,4 @@
+- Similar to the [[Work Function]] in that it is the difference in volts between the conductance energy level and the [[Vacuum Level]] in an [[Energy Band Diagram]]
+- Symbol: $$\chi$$
+- ![image.png](../assets/image_1762452140643_0.png)
+-

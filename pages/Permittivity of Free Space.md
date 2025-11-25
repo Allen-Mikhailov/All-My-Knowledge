@@ -1,0 +1,3 @@
+- It is a global constant that measures a vacuum ability to support an electric field
+- Symbol: $$\epsilon_0$$
+- $$8.85\times 10^{-14} \; F/cm$$
