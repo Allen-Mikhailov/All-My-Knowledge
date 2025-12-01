@@ -1,0 +1,2 @@
+- An kernel that run my operating system
+- Going to connect all things related to linux here like programs

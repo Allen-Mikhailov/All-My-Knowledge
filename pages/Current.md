@@ -1,0 +1,5 @@
+- Flow of electric charge through a conductor
+- Symbol: $I$
+- Unit:
+	- [[Amperes]]
+- {{query (property :tags "Current")}}

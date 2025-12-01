@@ -1,0 +1,2 @@
+- A type of state machine in which the output depends on the **Current State** only
+- Similar to a [[Mealy machine]]

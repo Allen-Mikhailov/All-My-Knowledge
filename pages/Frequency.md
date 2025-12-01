@@ -1,4 +1,4 @@
 - The amount of times something happens over a period of time
 - Units:
 	- [[Hertz]]
-- {{query (property :tags "Frequency")}}
+- {{query (property :tags "Physics/Frequency")}}

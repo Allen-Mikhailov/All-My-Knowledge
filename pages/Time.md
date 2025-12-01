@@ -1,4 +1,4 @@
 - Symbol: $$(t)$$
 - Units
 	- [[Seconds]] $$(s)$$
--
+- {{query (property :tags "Time")}}

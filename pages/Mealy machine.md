@@ -1,0 +1,2 @@
+- A type of state machine in which the output depends on the **Current State** and **Inputs**
+- Similar to a [[Moore Machine]]

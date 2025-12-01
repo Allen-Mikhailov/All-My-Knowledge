@@ -1,0 +1,2 @@
+- Pretty much how hard it is to turn an object
+- {{query (property :tags "Moment of Inertia")}}
