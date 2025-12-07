@@ -1,0 +1,2 @@
+- A Non-Ideal [[BJT]] Effect
+- Occurs at high $V_{BE}$ which degrades the emitter efficiency and the collector current

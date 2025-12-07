@@ -1,0 +1,4 @@
+- Symbol: $a_T$
+- Represents the loss of excess minority carrior [[Electrons]]
+- $a_T\approx \frac{1}{1+\frac{1}{2}(\frac{x_B}{L_B})^2}$
+- $\alpha_T=\frac{J_{nC}}{J_{nE}}$

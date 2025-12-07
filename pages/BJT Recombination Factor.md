@@ -1,0 +1,3 @@
+- Symbol: $\delta$
+- $\delta=\frac{1}{1+\frac{J_{ro}}{J_{so}} exp(\frac{-eV_{BE}}{2kT})}$
+-

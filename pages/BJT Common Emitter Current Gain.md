@@ -1,0 +1,3 @@
+- Ratio of base current and the collector current
+- Symbol: $\beta$
+- $\beta=i_C/i_B=\frac{i_C}{i_E-i_C}=\frac{\alpha}{1-\alpha}$

@@ -1,0 +1,3 @@
+- Symbol: $\gamma$
+- $\gamma \approx \frac{1}{1+\frac{N_B D_E x_B}{N_E D_B x_E}}$
+- $\gamma = \frac{J_{nE}}{J_{nE}+J_{pE}}$

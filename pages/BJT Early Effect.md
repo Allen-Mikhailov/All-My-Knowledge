@@ -1,0 +1,2 @@
+- This is a Non-Ideal [[BJT]] Effect
+- It is due to base width modulation which causes the collector region in the [[BJT Forward Active]] region to increase with $V_{CB}$

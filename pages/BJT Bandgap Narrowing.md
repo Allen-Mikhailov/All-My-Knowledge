@@ -1,0 +1,3 @@
+- A Non-Ideal [[BJT]] Effect
+- Occurs when High Doping in the emitter
+- Degrades the efficiency of the emitter

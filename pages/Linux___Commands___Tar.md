@@ -2,7 +2,7 @@
 - Mainly used on [[Linux]]
 -
 - Usage
-	- Extracting:
+	- Extracting .tar files:
 	- ```bash
 	  tar -xvf archive_name.tar
 	  ```

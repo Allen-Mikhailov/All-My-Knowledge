@@ -1,0 +1,3 @@
+- A Non-Ideal [[BJT]] Effect
+- High Base resistance leads to uneven voltage drop along to the base
+- This leads to current crowding on the edges of the emitter
