@@ -3,7 +3,10 @@
 -
 - Usage
 	- Extracting .tar files:
-	- ```bash
+	  ```bash
 	  tar -xvf archive_name.tar
 	  ```
--
+	- Creating .tar files
+	  ```bash
+	  tar -cvf archive_name.tar folder_name
+	  ```

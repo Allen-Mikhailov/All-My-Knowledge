@@ -1,0 +1,2 @@
+- A type of [[Money]] in that has intrinsic value like gold
+-

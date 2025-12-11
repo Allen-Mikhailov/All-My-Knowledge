@@ -1,0 +1,1 @@
+- A type of [[Money]] that has no intrinsic value and is only used as [[Money]] because a government deems it valuable

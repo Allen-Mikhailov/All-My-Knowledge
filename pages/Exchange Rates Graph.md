@@ -1,0 +1,3 @@
+- Compares the [[Real Exchange Rate]] to [[Net Exports]] and [[Net Capital Outflows]]
+- ![image.png](../assets/image_1765408705252_0.png)
+-

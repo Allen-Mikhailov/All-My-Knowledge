@@ -1,0 +1,3 @@
+- The value of current goods and services ([[GDP]]) valued at current prices
+- Influenced by [[Inflation]]
+-

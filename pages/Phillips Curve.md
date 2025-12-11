@@ -1,0 +1,6 @@
+- $U=\overline{U}(\pi-\pi_E)$
+	- [[Unemployment Rate]]
+- $W_r=\frac{W_N(P_E}{P}$
+	- Real Wage is equal to nominal wage as a function of price expectations over prices
+- Expectations-Augmented Curve
+	- If actual [[Inflation]] keeps rising,  expected [[Inflation]] and nominal wages can also increasing leading to a Right shift in which [[Stagflation]] Occurs

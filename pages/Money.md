@@ -1,0 +1,8 @@
+- [[Money]] is any asset that can be used for transactions
+- Types of [[Money]]
+	- [[Fiat Money]]
+	- [[Commodity Money]]
+- [[Money]] has many roles such as
+	- Medium of exchange: an asset used in providing a good or service
+	- Unit of Account: A measure of economic value
+	- Store of Value: An asset that serves as a means of holding wealth

@@ -1,0 +1,1 @@
+- The [[Interest Rate]] that commercial banks charge each other for loans

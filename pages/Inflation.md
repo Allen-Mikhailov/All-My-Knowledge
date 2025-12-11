@@ -1,0 +1,3 @@
+- The gradual increase in the price level in the economy
+- Inflation Rate: $IR$
+- $IR=\frac{CPI_{current}-CPI_{last}}{CPI_{last}}\times 100$

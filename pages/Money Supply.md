@@ -1,0 +1,4 @@
+- The total amount of [[Money]] available
+- Money Supply is the Currency held by the public + deposits in banks
+-
+- With a

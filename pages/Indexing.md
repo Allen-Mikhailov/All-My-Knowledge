@@ -1,0 +1,1 @@
+- The practice of increasing the [[Nominal Quantity]] each period by an amount equal to the percent increase in a specified [[Consumer Price Index]] . Indexing prevents the purchasing power of the [[Nominal Quantity]] from being eroded by inflation.

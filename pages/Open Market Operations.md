@@ -1,0 +1,13 @@
+- Types:
+	- Open Market Purchases:
+		- Government purchases Bonds back from the public.
+		- Expansionary
+		- Increases (Right Shift) [[Money Supply]]
+		- Increases [[Money Demand]]
+		- Lowers [[Nominal Interest Rates]]
+	- Open Market Sale:
+		- Contractionary
+		- Government sells bonds to the public
+		- Decreases (Left shift) [[Money Supply]]
+		- Decreases [[Money Demand]]
+		- Increases [[Nominal Interest Rates]]

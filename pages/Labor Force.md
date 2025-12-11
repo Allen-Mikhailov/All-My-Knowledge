@@ -1,0 +1,2 @@
+- The amount of people who are willing to and can work
+- Employed + Unemployed

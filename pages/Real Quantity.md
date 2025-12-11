@@ -1,0 +1,3 @@
+- Quantity measured in physical terms
+- How much actual stuff do we have
+- Related to [[Nominal Quantity]]

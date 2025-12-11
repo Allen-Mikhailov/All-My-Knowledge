@@ -1,0 +1,6 @@
+- The number of unemployed people as a percentage of the [[Labor Force]]
+- Two rates
+	- Natural Unemployment: Structural + Frictional
+	- Cyclical unemployment: $CR=Actual-Natural$
+- Type of Unemplyoemnt
+	-

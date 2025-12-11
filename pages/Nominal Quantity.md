@@ -1,0 +1,2 @@
+- Quantity of something measured in terms of a current dollar value
+- Related to [[Real Quantity]]

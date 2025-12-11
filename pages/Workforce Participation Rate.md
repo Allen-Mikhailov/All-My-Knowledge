@@ -1,0 +1,2 @@
+- The Percentage of people in the population that are in the labor force
+- [[Labor Force]] divided by Working and Population

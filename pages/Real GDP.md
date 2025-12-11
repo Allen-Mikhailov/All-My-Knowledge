@@ -1,0 +1,2 @@
+- The production of goods and services ([[GDP]]) valued at past prices
+- Accounts for [[Inflation]]
