@@ -1,3 +1,6 @@
+title:: Tar
+alias::
+
 - Tar is a CLI tool used to compress folders kind of like a zip file
 - Mainly used on [[Linux]]
 -

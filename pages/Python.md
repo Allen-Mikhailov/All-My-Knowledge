@@ -1,0 +1,2 @@
+- Python is a programming language that is used for a lot of math and stuff
+- Will use this as a base because I keep forgetting how matrices work in [[numpy]]
